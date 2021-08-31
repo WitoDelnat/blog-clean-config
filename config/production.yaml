@@ -1,0 +1,4 @@
+database:
+  host: "192.168.100.2"
+  user: "prd-usr"
+  password: "prd-p4ssw0rd"

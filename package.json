@@ -1,0 +1,23 @@
+{
+  "name": "blog-node-config",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "config": "3.3.6",
+    "fastify": "3.20.2",
+    "js-yaml": "4.1.0",
+    "pino": "6.13.1",
+    "slonik": "24.0.1",
+    "zod": "3.8.1"
+  },
+  "devDependencies": {
+    "@types/config": "0.0.39",
+    "@types/pino": "6.3.11",
+    "ts-node": "10.2.1",
+    "typescript": "4.4.2"
+  }
+}

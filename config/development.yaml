@@ -1,0 +1,4 @@
+database:
+  host: "localhost"
+  user: "usr"
+  password: "p4ssw0rd"
